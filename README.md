@@ -1,6 +1,4 @@
 # DDGKitPvp
-DDG KitPvp sollicitatie plugin
-
 In this project, I used English as only language.
 For new projects, I can adapt to Dutch easily, if necessary.
 
