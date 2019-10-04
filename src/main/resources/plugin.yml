@@ -1,0 +1,11 @@
+name: DDGKitPvp
+version: ${project.version}
+main: nl.itslars.ddgkitpvp.Main
+api-version: 1.13
+authors: [ItsLars]
+description: DDG Spigot Proefproject - KitPVP
+
+commands:
+  kitpvp:
+    description: The main DDG KitPvp command
+    aliases: [kp]

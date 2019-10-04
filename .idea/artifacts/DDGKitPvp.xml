@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DDGKitPvp">
+    <output-path>$PROJECT_DIR$/../../../Test server/spigot 1.13/plugins</output-path>
+    <root id="archive" name="DDGKitPvp.jar">
+      <element id="module-output" name="DDGKitPvp" />
+    </root>
+  </artifact>
+</component>
